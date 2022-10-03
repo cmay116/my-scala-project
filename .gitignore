@@ -1,0 +1,14 @@
+/**/target/*
+/dist
+/project/project
+
+
+/bazel-*
+
+/.idea/*
+
+*.iml
+
+.DS_Store
+
+.ijwb/
